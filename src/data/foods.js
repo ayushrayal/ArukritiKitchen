@@ -24,7 +24,7 @@ export const foods = [
     name: "Dal Tadka Combo",
     price: 199,
     category: "Combos",
-    image: "https://images.unsplash.com/photo-1601050690597-df056fb4ce78?auto=format&fit=crop&w=600&q=75&fm=webp",
+    image: "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&w=600&q=75&fm=webp",
     description: "Creamy yellow lentils tempered with double tadka of garlic, cumin, and whole red chillies, served with rice and paratha.",
     featured: true,
     tags: ["Daily Special"]
@@ -34,7 +34,7 @@ export const foods = [
     name: "Veg Momos",
     price: 120,
     category: "Snacks",
-    image: "https://images.unsplash.com/photo-1625220194771-7ebedd0b4a1b?auto=format&fit=crop&w=600&q=75&fm=webp",
+    image: "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=600&q=75&fm=webp",
     description: "Steamed thin-wrapper dumplings stuffed with finely chopped fresh vegetables, served with a fiery red chilli chutney.",
     featured: true,
     tags: ["Popular"]

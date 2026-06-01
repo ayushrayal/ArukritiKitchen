@@ -9,7 +9,7 @@ export const galleryItems = [
     id: 2,
     title: "Steaming Veg Momos",
     category: "Chinese",
-    image: "https://images.unsplash.com/photo-1625220194771-7ebedd0b4a1b?auto=format&fit=crop&w=600&q=75&fm=webp"
+    image: "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=600&q=75&fm=webp"
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ export const galleryItems = [
     id: 7,
     title: "Fresh Tandoori Roti & Naan",
     category: "Breads",
-    image: "https://images.unsplash.com/photo-1585938338392-50a599d02177?auto=format&fit=crop&w=600&q=75&fm=webp"
+    image: "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=600&q=75&fm=webp"
   },
   {
     id: 8,
